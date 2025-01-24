@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Budget Phnom Penh and Kompot",
+      "description": "Affordable tour from Phnom Penh to Kompot.",
+      "rating": 4.2,
+      "reviews": 80,
+      "duration": "1 Week",
+      "status": "Available",
+      "price": 500,
+      "image": "/images/kompot.jpg"
+    },
+    {
+      "title": "Budget Kompot to Kep",
+      "description": "Relaxing budget-friendly trip from Kompot to Kep.",
+      "rating": 4.3,
+      "reviews": 70,
+      "duration": "1 Week",
+      "status": "Available",
+      "price": 550,
+      "image": "/images/kep.jpg"
+    }
+  ]
+  

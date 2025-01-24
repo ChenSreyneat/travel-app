@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Phnom Penh, Angkor Wat and Kompot",
+      "description": "Experience the dazzling lights of the Las Vegas Strip and beyond with a nighttime helicopter flight.",
+      "rating": 4.8,
+      "reviews": 112,
+      "duration": "2 Weeks",
+      "status": "Sold out",
+      "price": 1200,
+      "image": "image/Hotel in kompot/1.jpg"
+    },
+    {
+      "title": "Phnom Penh to Kompot",
+      "description": "Enjoy a luxurious tour of Phnom Penh to Kompot.",
+      "rating": 4.9,
+      "reviews": 90,
+      "duration": "2 Weeks",
+      "status": "Available",
+      "price": 1100,
+      "image": "image/Hotel in kompot/1.jpg"
+    }
+  ]
+  
